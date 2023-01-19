@@ -1,0 +1,102 @@
+
+/* Aside div */
+
+.noteImg {
+    padding-right: 5px;
+}
+
+.aside-main {
+    height: 721.22px;
+}
+
+.bookmarks {
+    width: 90px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.2778px;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    color: #FF6B6B;
+    flex: none;
+    flex-grow: 0;
+}
+
+.aside-header {
+    height: 75.625px;
+    width: 306px;
+    border-radius: 0px;
+    background-color: #3DA577;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21.3889px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    font-variant: small-caps;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.toggle-window {
+    height: 75.625px;
+    width: 306px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding: 17px 177px 17px 21px;
+
+}
+
+.dailyNotes-innerDiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.dailyNotes-innerDiv-icon {
+    width: 42.01px;
+    height: 42.01px;
+    border-radius: 50%;
+    background: #806BFF;
+    color: white;
+    padding: 7px;
+}
+
+.daily-notes {
+    width: 105px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.2778px;
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+    color: #806BFF;
+    flex: none;
+    flex-grow: 0;
+}
+
+.bookmark-innerDiv {
+    width: 100%;
+    color: white;
+    display: flex;
+}
+
+.bookmark-icon {
+    width: 42.01px;
+    height: 42.01px;
+    border-radius: 50%;
+    background-color: #FF6B6B;
+    color: white;
+    padding: 7px;
+}
+
+.same {
+    padding: 6px;
+}
