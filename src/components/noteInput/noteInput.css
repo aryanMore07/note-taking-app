@@ -1,0 +1,51 @@
+
+.notesInput-innerDiv {
+    width: 99%;
+    height: 95%;
+    border-radius: 9.16667px;
+    margin-top: 35px;
+}
+
+.cardComponent {
+    margin: 15px 0px 15px 0px;
+}
+
+.pTag-time {
+    padding-left: 83%;
+}
+
+.result-div {
+    height: 90%;
+}
+
+.input-div {
+    width: 100%;
+    height: 64.93px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notes-input {
+    width: 88%;
+    height: 42.01px;
+    top: 728.75px;
+    background: #E1E1E1;
+    border-radius: 9.16667px;
+    padding: 15px;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+}
+
+.send-icon {
+    width: 42.01px;
+    height: 42.01px;
+    background: #3DA577;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
